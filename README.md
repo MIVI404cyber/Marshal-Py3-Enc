@@ -1,5 +1,8 @@
 # Marshal-Py3-Enc
-<br> [![Facebook](https://img.shields.io/badge/Facebook-Raj-blue?style=flat-square&logo=facebook)](https://www.facebook.com/mr.rohman.129)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.MIVI-blue?style=flat-square&logo=WhatsApp)](https://wa.me/+8801741033194?)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F720&width=435&lines=MR.MIVI+Marshal+Encoding+Tool;Follow+My+Github)](https://git.io/typing-svg)
+<br> [![Github](https://img.shields.io/badge/Github-MR.MIVI-blue?style=flat-square&logo=github)](https://www.github.com/MIVI404cyber)
+<br> [![Facebook](https://img.shields.io/badge/Facebook-Raj-blue?style=flat-square&logo=facebook)](https://www.facebook.com/mr.rohman.129)
+<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.MIVI-blue?style=flat-square&logo=WhatsApp)](https://wa.me/+8801741033194?)
 # Bit Support
 ###### (32 Bit) & (64 Bit) All Support
 # Manual Command
